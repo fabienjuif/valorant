@@ -44,7 +44,7 @@ In both easy and medium speeds, you have to "one tap" the dummies. It means you 
 
 ### Hard
 
-In hard speed I use some other rule because ... it's really hard for me right now.
+In hard speed I use some other rules because ... it's really hard for me right now.
 
 Do not one tap. You can do some full if you need.
 
